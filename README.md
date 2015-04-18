@@ -1,2 +1,2 @@
 # ogdf-php
-PHP bindings with Open Graph Drawing Framework
+PHP bindings for Open Graph Drawing Framework
